@@ -1,6 +1,6 @@
 # Publication boundaries
 
-AI Clinic Scribe is the public case study name used for a confidential client project.
+AI Clinic Scribe Case Study is the public case study name used for a confidential client project.
 
 This repository contains newly written, generalized documentation only. It is independent of the private implementation repository and does not share its Git history.
 
